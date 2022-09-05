@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @baristekinn0
+- 👋 Hi, I’m **Barış**
 - 👀 I’m interested in Mobile Developer
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me https://www.linkedin.com/in/bar%C4%B1%C5%9F-tekin-02a50a183/
-
-<!---
-baristekinn0/baristekinn0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/bar%C4%B1%C5%9F-tekin-02a50a183/), [Twitter](https://twitter.com/barisTheLearner), [Instagram](https://www.instagram.com/baristekinn0/?hl=tr)
