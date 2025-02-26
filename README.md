@@ -1,4 +1,4 @@
 - 👋 Hi, I’m **Barış**
 - 👀 I’m interested in Mobile Developer
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/bar%C4%B1%C5%9F-tekin-02a50a183/), [Twitter](https://twitter.com/barisTheLearner), [Instagram](https://www.instagram.com/baristekinn0/?hl=tr)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/bar%C4%B1%C5%9F-tekin-02a50a183/), [Instagram](https://www.instagram.com/baristekinn0/?hl=tr)
